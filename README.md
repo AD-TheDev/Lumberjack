@@ -1,5 +1,6 @@
 # Lumberjack
-DSA project
+DSA PROJECT
+Instructor : Sandeep R. B.
 
 Code for the problem Lumberjack hosted on optil.io. Link to the problem:
 
